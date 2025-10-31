@@ -11,3 +11,4 @@ richesse <- data %>%
 write.csv(richesse, "results/tableau_indices.csv", row.names = FALSE)
 
 print("Analyse terminée : tableau des indices enregistré dans results/.")
+modifier
